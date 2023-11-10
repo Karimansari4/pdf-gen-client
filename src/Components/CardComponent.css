@@ -1,0 +1,6 @@
+canvas.react-pdf__Page__canvas{
+    display: flex !important;
+    width: 100% !important;
+    height: 50% !important;
+    margin-top: 15px;
+}
